@@ -1,3 +1,2 @@
-# HackerRankPractice
-HackerRank Practice C++
-
+# HackerRank
+Practice Code in C++
